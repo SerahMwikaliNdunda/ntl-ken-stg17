@@ -1,0 +1,3 @@
+label_en,label_fr,n,independent,var_type,partial_rho,spearman,spearman_p,ci_low,ci_high,pearson_log,r2_log,elasticity,note_en,note_fr
+Sum of Lights vs population,Somme des lumières vs population,47,False,,,0.540356,8.83187e-05,0.291599,0.720654,0.585575,0.342898,0.878338,Consistency check only: population mechanically drives light.,Contrôle de cohérence seulement : la population détermine mécaniquement la lumière.
+Lit area vs population density,Surface éclairée vs densité de population,47,False,,,0.920907,4.94442e-20,0.859288,0.956178,0.902379,0.814288,1.04016,Consistency check only.,Contrôle de cohérence seulement.

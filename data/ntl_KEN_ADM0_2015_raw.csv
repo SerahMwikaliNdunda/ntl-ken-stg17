@@ -1,0 +1,2 @@
+shapeID,name,area_km2,n_pixels,sol,rad_km2,sol_per_km2,mean_rad,median_rad,p90_rad,max_rad,lit_area_km2,lit_share,core_area_km2,core_share,pop,pop_inhabited,pop_lit,pop_dark,pop_lit_share,pop_density,sol_per_capita,gini_pixels,gini_pop_light,cv_rad,sol_share_nat,pop_share_nat,light_pop_ratio
+21065076B29129174773383,Republic of Kenya,590834,595304,21780,21624,0.0368631,0.0365863,0,0,85.3083,9719.54,0.0164506,453.686,0.000767874,4.62954e+07,4.62597e+07,1.43497e+07,3.191e+07,0.310199,78.356,0.000470457,0.993049,0.881968,18.1513,1,1,1
