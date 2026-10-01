@@ -1,6 +1,6 @@
 # Limitations statement — Republic of Kenya (KEN)
 
-Run `20261001T110329Z` · provider `gee` · baseline 2015 · endline 2024
+Run `20261001T214407Z` · provider `gee` · baseline 2015 · endline 2024
 
 ## 1. What is measured
 Upward radiance in the visible and near-infrared, captured at approximately 01:30 local solar time, in
@@ -61,7 +61,7 @@ own error structure, which propagates into every per-capita and every "unlit pop
 
 # Déclaration de limites — Republic of Kenya (KEN)
 
-Exécution `20261001T110329Z` · fournisseur `gee` · référence 2015 · fin de période 2024
+Exécution `20261001T214407Z` · fournisseur `gee` · référence 2015 · fin de période 2024
 
 ## 1. Ce qui est mesuré
 Une radiance ascendante dans le visible et le proche infrarouge, captée vers 01h30 heure solaire locale, en
